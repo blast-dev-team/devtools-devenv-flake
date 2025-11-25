@@ -1,1 +1,2 @@
-# Free AI at api.airforce
+# devenv-flake
+Flake for project-specific nix dev shells
